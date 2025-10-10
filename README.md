@@ -44,4 +44,4 @@ With **3+ years of experience** in Quality Assurance, I specialize in ensuring t
 
 ## 🤝 Let’s Connect!
 
-💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/m-srodrigues/))  
+💼 [LinkedIn](https://www.linkedin.com/in/m-srodrigues/)  
