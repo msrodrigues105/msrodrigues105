@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm Miguel Rodrigues!
+# Hello, I'm Miguel Rodrigues!
 
-🎯 **Quality Assurance Engineer | AI Enthusiast | Problem Solver**
+**Quality Assurance Engineer | AI Enthusiast | Problem Solver**
 
 With **3+ years of experience** in Quality Assurance, I specialize in ensuring that every product I test delivers **precision, performance, and perfection**. I love blending **automation**, **exploratory testing**, and **AI-driven approaches** to elevate quality beyond expectations.
 
@@ -8,10 +8,10 @@ With **3+ years of experience** in Quality Assurance, I specialize in ensuring t
 
 ## 🧠 About Me
 
-- 🔍 Passionate about **software quality**, test automation, and continuous improvement  
-- 🤖 Exploring **AI models** and how they can enhance QA processes  
-- 🧪 Experienced in **manual & automated testing**, API testing, and performance validation  
-- 💡 Constantly learning and experimenting with new tech tools to make testing smarter  
+- Passionate about **software quality**, test automation, and continuous improvement  
+- Exploring **AI models** and how they can enhance QA processes  
+- Experienced in **manual & automated testing**, API testing, and performance validation  
+- Constantly learning and experimenting with new tech tools to make testing smarter  
 
 ---
 
