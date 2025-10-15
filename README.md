@@ -1,6 +1,6 @@
 # Hello, I'm Miguel Rodrigues!
 
-**Quality Assurance Automation Engineer
+**Quality Assurance Automation Engineer**
 
 With **3+ years of experience** in Quality Assurance, I specialize in ensuring that every product I test delivers **precision, performance, and perfection**. I love blending **automation**, **exploratory testing**, and **AI-driven approaches** to elevate quality beyond expectations.
 
