@@ -35,7 +35,7 @@ With **3+ years of experience** in Quality Assurance, I specialize in ensuring t
 
 🔹 **RecipeIS-Recipe-recommendation-system-based-on-recognition-of-food-ingredients** – Food recognition and recipes recommendation using AI model
 
-🔹 **QA_Automation_ClickUpQA_Automation_ClickUp** – Quick automation framework using Cypress in the ClickUp website
+🔹 **QA_Automation_ClickUp** – Quick automation framework using Cypress in the ClickUp website
 
 🔹 **Oracle Schema Comparator** – A Python-based tool to compare Oracle database schemas across multiple environments (Dev, QA, Test, etc.)
 
