@@ -18,7 +18,7 @@ With **3+ years of experience** in Quality Assurance, I specialize in ensuring t
 ## 🛠️ Tech Stack & Tools
 
 **Languages & Frameworks:**  
-`Python` · `JavaScript` · `Java` · `PyTest` · `Selenium` · `Cypress` · `Playwright`
+`Python` · `JavaScript` · `Java` · `PyTest` · `Selenium` · `Cypress` · `Playwright` · `PowerShell`
 
 **Testing Tools:**  
 `Postman` · `JMeter` · `Appium` · `TestNG` · `JUnit`
