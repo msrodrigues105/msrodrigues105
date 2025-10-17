@@ -41,6 +41,7 @@ With **3+ years of experience** in Quality Assurance, I specialize in ensuring t
 
 🔹 **QA automation LLM analyzer** – A Python tool that analyzes a codebase using an LLM (via Ollama) to identify potential bugs, fragile code, and suggest improvements. Supports multiple file types and outputs a detailed project report
 
+🔹 **Process performance monitor** – A PowerShell script for monitoring CPU, memory, threads, and handle usage of any Windows process in real time, with automatic CSV logging and performance summaries.
 
 ---
 
